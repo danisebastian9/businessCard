@@ -19,8 +19,8 @@ export default function Main() {
                 <h3>About</h3>
                 <p>I am a committed, empathetic, responsible, quick learner and team worker person, 
                     in continuous search for personal and professional growth. 
-                    Always providing the best effort and highest quality through every single task 
-                    to fulfill any task. I'm provided with strong abilities in Software Development 
+                    Always providing the best effort and highest quality to fulfill every task. 
+                    I'm provided with strong abilities in Software Development 
                     (Front-end, Back-end), Technical Support, Customer Care, technology in general, 
                     each time seeking to improve and acquire skills.
                 </p>
