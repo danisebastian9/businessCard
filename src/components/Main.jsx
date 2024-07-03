@@ -17,13 +17,12 @@ export default function Main() {
             </div>
             <div className='main--texts'>
                 <h3>About</h3>
-                <p>I am a committed, empathetic, responsible, and energetic person, 
-                    always looking for personal and professional growth. 
-                    A quick learner and team worker, who provides the best through 
-                    every single task to fulfill the company's goals. I'm provided 
-                    with strong abilities in Software Development, Technical Support, 
-                    Customer Care, technology in general, each time seeking to 
-                    improve and acquire skills.
+                <p>I am a committed, empathetic, responsible, quick learner and team worker person, 
+                    in continuous search for personal and professional growth. 
+                    Always providing the best effort and highest quality through every single task 
+                    to fulfill any task. I'm provided with strong abilities in Software Development 
+                    (Front-end, Back-end), Technical Support, Customer Care, technology in general, 
+                    each time seeking to improve and acquire skills.
                 </p>
                 <h3>Interests</h3>
                 <p>Technology fanatic. Travel geek. Music lover. Food taster 
