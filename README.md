@@ -1,8 +1,11 @@
-# React + Vite
+# REACT Business Card - Scrimba Solo Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This repository was created as part of a REACT development path from Scrimba, this is the first solo project 
+where Business Card is completely created using:
 
-Currently, two official plugins are available:
+# REACT - JSX - HTML - CSS 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The project was created from 0, with just a visual example of desired model, complete implementation from scratch, 
+including VITE to create the project. 
+
+There's a live deploy in Netlify in the following URL https://main--businesscard-danisebastian9.netlify.app/
